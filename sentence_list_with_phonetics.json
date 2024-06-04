@@ -1,0 +1,144 @@
+[
+    {
+        "sentence": "TensorFlow is an open-source machine learning framework.",
+        "translation": "TensorFlow 是一个开源的机器学习框架。",
+        "phonetics": [
+            "ˈtensərˌfloʊ",
+            "ɪz",
+            "æn",
+            "ˌoʊpənˈsɔrs",
+            "məˈʃin",
+            "ˈlɜrnɪŋ",
+            "ˈfreɪmˌwɜrk"
+        ]
+    },
+    {
+        "sentence": "Python is a high-level programming language.",
+        "translation": "Python 是一种高级编程语言。",
+        "phonetics": [
+            "ˈpaɪˌθɑn",
+            "ɪz",
+            "ə",
+            "ˌhaɪˈlɛvəl",
+            "ˈproʊˌgræmɪŋ",
+            "ˈlæŋgwɪdʒ"
+        ]
+    },
+    {
+        "sentence": "A library is a collection of functions and methods.",
+        "translation": "库是函数和方法的集合。",
+        "phonetics": [
+            "ə",
+            "ˈlaɪˌbrɛri",
+            "ɪz",
+            "ə",
+            "kəˈlɛkʃən",
+            "ʌv",
+            "ˈfʌŋkʃənz",
+            "ænd",
+            "ˈmɛθədz"
+        ]
+    },
+    {
+        "sentence": "Installation is the act of installing something.",
+        "translation": "安装是安装某物的行为。",
+        "phonetics": [
+            "ˌɪnstəˈleɪʃən",
+            "ɪz",
+            "ðə",
+            "ækt",
+            "ʌv",
+            "ɪnˈstɔlɪŋ",
+            "ˈsʌmθɪŋ"
+        ]
+    },
+    {
+        "sentence": "An error is a mistake or problem in the code.",
+        "translation": "错误是代码中的错误或问题。",
+        "phonetics": [
+            "æn",
+            "ˈɛrər",
+            "ɪz",
+            "ə",
+            "mɪˈsteɪk",
+            "ɔr",
+            "ˈprɑbləm",
+            "ɪn",
+            "ðə",
+            "koʊd"
+        ]
+    },
+    {
+        "sentence": "A package is a collection of modules.",
+        "translation": "包是模块的集合。",
+        "phonetics": [
+            "ə",
+            "ˈpækɪdʒ",
+            "ɪz",
+            "ə",
+            "kəˈlɛkʃən",
+            "ʌv",
+            "ˈmɑdʒulz"
+        ]
+    },
+    {
+        "sentence": "A command is an instruction to a computer program.",
+        "translation": "命令是对计算机程序的指令。",
+        "phonetics": [
+            "ə",
+            "kəˈmænd",
+            "ɪz",
+            "æn",
+            "ɪnˈstrʌkʃən",
+            "tu",
+            "ə",
+            "kəmˈpjutər",
+            "ˈproʊˌgræm"
+        ]
+    },
+    {
+        "sentence": "A virtual environment is not physically existing but made by software.",
+        "translation": "虚拟环境不是物理存在的，而是由软件创建的。",
+        "phonetics": [
+            "ə",
+            "ˈvɜrtʃuəl",
+            "ɪnˈvaɪrənmənt",
+            "ɪz",
+            "nɑt",
+            "ˈfɪzɪkli",
+            "ɪɡˈzɪstɪŋ",
+            "bʌt",
+            "meɪd",
+            "baɪ",
+            "ˈsɔftˌwɛr"
+        ]
+    },
+    {
+        "sentence": "Training is the process of teaching a model.",
+        "translation": "训练是教模型的过程。",
+        "phonetics": [
+            "ˈtreɪnɪŋ",
+            "ɪz",
+            "ðə",
+            "ˈprɑsɛs",
+            "ʌv",
+            "ˈtitʃɪŋ",
+            "ə",
+            "ˈmɑdəl"
+        ]
+    },
+    {
+        "sentence": "A model is a representation of a system.",
+        "translation": "模型是系统的表示。",
+        "phonetics": [
+            "ə",
+            "ˈmɑdəl",
+            "ɪz",
+            "ə",
+            "ˌrɛprɪˈzɛnˌteɪʃən",
+            "ʌv",
+            "ə",
+            "ˈsɪstəm"
+        ]
+    }
+]
