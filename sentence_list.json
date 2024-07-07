@@ -13,46 +13,6 @@
         ]
     },
     {
-        "sentence": "Docker is essential for modern software development.",
-        "translation": "Docker在现代软件开发中是必不可少的。",
-        "phonetics": [
-            "ˈdɑkər",
-            "ɪz",
-            "ɪˈsɛnʃəl",
-            "fɔr",
-            "ˈmɑdərn",
-            "ˈsɔftˌwɛr",
-            "dɪˈvɛləpmənt"
-        ]
-    },
-    {
-        "sentence": "Learning Python can open up many career opportunities.",
-        "translation": "学习Python可以打开许多职业机会。",
-        "phonetics": [
-            "ˈlɜrnɪŋ",
-            "ˈpaɪθɑn",
-            "kæn",
-            "ˈoʊpən",
-            "ʌp",
-            "ˈmɛni",
-            "kəˈrɪr",
-            "ˌɑpərˈtunɪtiz"
-        ]
-    },
-    {
-        "sentence": "Git helps in managing project versions effectively.",
-        "translation": "Git有助于有效管理项目版本。",
-        "phonetics": [
-            "ɡɪt",
-            "hɛlps",
-            "ɪn",
-            "ˈmænɪʤɪŋ",
-            "ˈprɑʤɛkt",
-            "ˈvɜrʒənz",
-            "ɪˈfɛktɪvli"
-        ]
-    },
-    {
         "sentence": "Using APIs can greatly enhance the functionality of applications.",
         "translation": "使用API可以大大增强应用程序的功能。",
         "phonetics": [
@@ -65,20 +25,6 @@
             "ˌfʌŋkʃəˈnælɪti",
             "ʌv",
             "ˌæpləˈkeɪʃənz"
-        ]
-    },
-    {
-        "sentence": "Flask allows for flexible and rapid web development.",
-        "translation": "Flask允许灵活和快速的Web开发。",
-        "phonetics": [
-            "flæsk",
-            "əˈlaʊz",
-            "fɔr",
-            "ˈflɛksəbl",
-            "ænd",
-            "ˈræpɪd",
-            "wɛb",
-            "dɪˈvɛləpmənt"
         ]
     },
     {
@@ -106,46 +52,6 @@
         ]
     },
     {
-        "sentence": "Docker is essential for modern software development.",
-        "translation": "Docker在现代软件开发中是必不可少的。",
-        "phonetics": [
-            "ˈdɑkər",
-            "ɪz",
-            "ɪˈsɛnʃəl",
-            "fɔr",
-            "ˈmɑdərn",
-            "ˈsɔftˌwɛr",
-            "dɪˈvɛləpmənt"
-        ]
-    },
-    {
-        "sentence": "Learning Python can open up many career opportunities.",
-        "translation": "学习Python可以打开许多职业机会。",
-        "phonetics": [
-            "ˈlɜrnɪŋ",
-            "ˈpaɪθɑn",
-            "kæn",
-            "ˈoʊpən",
-            "ʌp",
-            "ˈmɛni",
-            "kəˈrɪr",
-            "ˌɑpərˈtunɪtiz"
-        ]
-    },
-    {
-        "sentence": "Git helps in managing project versions effectively.",
-        "translation": "Git有助于有效管理项目版本。",
-        "phonetics": [
-            "ɡɪt",
-            "hɛlps",
-            "ɪn",
-            "ˈmænɪʤɪŋ",
-            "ˈprɑʤɛkt",
-            "ˈvɜrʒənz",
-            "ɪˈfɛktɪvli"
-        ]
-    },
-    {
         "sentence": "Using APIs can greatly enhance the functionality of applications.",
         "translation": "使用API可以大大增强应用程序的功能。",
         "phonetics": [
@@ -158,20 +64,6 @@
             "ˌfʌŋkʃəˈnælɪti",
             "ʌv",
             "ˌæpləˈkeɪʃənz"
-        ]
-    },
-    {
-        "sentence": "Flask allows for flexible and rapid web development.",
-        "translation": "Flask允许灵活和快速的Web开发。",
-        "phonetics": [
-            "flæsk",
-            "əˈlaʊz",
-            "fɔr",
-            "ˈflɛksəbl",
-            "ænd",
-            "ˈræpɪd",
-            "wɛb",
-            "dɪˈvɛləpmənt"
         ]
     },
     {
@@ -199,46 +91,6 @@
         ]
     },
     {
-        "sentence": "Docker is essential for modern software development.",
-        "translation": "Docker在现代软件开发中是必不可少的。",
-        "phonetics": [
-            "ˈdɑkər",
-            "ɪz",
-            "ɪˈsɛnʃəl",
-            "fɔr",
-            "ˈmɑdərn",
-            "ˈsɔftˌwɛr",
-            "dɪˈvɛləpmənt"
-        ]
-    },
-    {
-        "sentence": "Learning Python can open up many career opportunities.",
-        "translation": "学习Python可以打开许多职业机会。",
-        "phonetics": [
-            "ˈlɜrnɪŋ",
-            "ˈpaɪθɑn",
-            "kæn",
-            "ˈoʊpən",
-            "ʌp",
-            "ˈmɛni",
-            "kəˈrɪr",
-            "ˌɑpərˈtunɪtiz"
-        ]
-    },
-    {
-        "sentence": "Git helps in managing project versions effectively.",
-        "translation": "Git有助于有效管理项目版本。",
-        "phonetics": [
-            "ɡɪt",
-            "hɛlps",
-            "ɪn",
-            "ˈmænɪʤɪŋ",
-            "ˈprɑʤɛkt",
-            "ˈvɜrʒənz",
-            "ɪˈfɛktɪvli"
-        ]
-    },
-    {
         "sentence": "Using APIs can greatly enhance the functionality of applications.",
         "translation": "使用API可以大大增强应用程序的功能。",
         "phonetics": [
@@ -251,20 +103,6 @@
             "ˌfʌŋkʃəˈnælɪti",
             "ʌv",
             "ˌæpləˈkeɪʃənz"
-        ]
-    },
-    {
-        "sentence": "Flask allows for flexible and rapid web development.",
-        "translation": "Flask允许灵活和快速的Web开发。",
-        "phonetics": [
-            "flæsk",
-            "əˈlaʊz",
-            "fɔr",
-            "ˈflɛksəbl",
-            "ænd",
-            "ˈræpɪd",
-            "wɛb",
-            "dɪˈvɛləpmənt"
         ]
     },
     {
